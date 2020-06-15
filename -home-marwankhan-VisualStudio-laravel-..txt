@@ -1,0 +1,1 @@
+/home/marwankhan/VisualStudio/laravel/.env
